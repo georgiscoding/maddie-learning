@@ -12,7 +12,7 @@ cd /Users/Maddie/learning/jslearning/tutorials/maddie-learning
 
 Georgy profile
 
-cd /Users/Georgy/maddie/maddie-learning
+cd /Users/georgemuttath/behealthe/maddie-training/maddie-learning
 
 
 
