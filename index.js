@@ -2,6 +2,7 @@ const sum = (a, b) => {
   return a + b;
 };
 
+// sum function
 const s = sum(1, 2);
 // const message = "i am the best";
 // console.log(`sum is ${s} and ${message}`);
