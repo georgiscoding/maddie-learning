@@ -18,6 +18,8 @@ cd /Users/Georgy/maddie/maddie-learning
 // pulling latest changes
 git pull
 
+// Sometimes it will open a file saying we are merging. Just close that file if that happens
+
 After you finish working 
 
 
