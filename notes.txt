@@ -2,18 +2,27 @@ Before starting to work.
 
 
 do
-from old laptop
+
+step 1 --> 
 
 // going to the correct directory
+
+New laptop --- rini profile 
+cd /Users/Maddie/learning/jslearning/tutorials/maddie-learning
+
+Georgy profile
+
 cd /Users/Georgy/maddie/maddie-learning
 
+
+
+
+step 2 --> 
 // pulling latest changes
 git pull
 
 
-from new laptop
-// going to the correct directory
-cd /Users/Georgy/maddie/maddie-learning
+
 
 // pulling latest changes
 git pull
