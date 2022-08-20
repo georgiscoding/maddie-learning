@@ -1,0 +1,32 @@
+Before starting to work.
+
+
+do
+from old laptop
+
+// going to the correct directory
+cd /Users/Georgy/maddie/maddie-learning
+
+// pulling latest changes
+git pull
+
+
+from new laptop
+// going to the correct directory
+cd /Users/Georgy/maddie/maddie-learning
+
+// pulling latest changes
+git pull
+
+After you finish working 
+
+
+git add .
+
+git commit -m "Any message about what you coded. Anything is fine."
+
+git push
+
+
+
+
