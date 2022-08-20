@@ -14,7 +14,8 @@ Georgy profile
 
 cd /Users/georgemuttath/behealthe/maddie-training/maddie-learning
 
-
+Old Laptop 
+cd /Users/Georgy/maddie/maddie-learning
 
 
 step 2 --> 
@@ -31,6 +32,21 @@ git pull
 
 After you finish working 
 
+step 1 --> 
+
+// going to the correct directory
+
+New laptop --- rini profile 
+cd /Users/Maddie/learning/jslearning/tutorials/maddie-learning
+
+Georgy profile
+
+cd /Users/georgemuttath/behealthe/maddie-training/maddie-learning
+
+Old Laptop 
+cd /Users/Georgy/maddie/maddie-learning
+
+Step 2 -->
 
 git add .
 
